@@ -2,7 +2,7 @@
 
 ![AWS](https://imgur.com/Hk28ffE.png)
 
-**deploy a Java Web app on a Docker Container built on an EC2 Instance through the use of Jenkins.**
+**Deploy a Java Web app on a Docker Container built on an EC2 Instance through the use of Jenkins.**
 
 ### Agenda
 
